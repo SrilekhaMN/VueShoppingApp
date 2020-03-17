@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "Brown eggs",
+      "description": "Raw organic brown eggs in a basket",
+      "quantity": "12",
+      "price": 60,
+      "image-URL": "/eggs-brown.png",
+      "offer": "5% off"
+    },
+    {
+      "name": "stawberry",
+      "description": "Sweet fresh stawberry",
+      "quantity": "1 kg",
+      "price": 200,
+      "image-URL": "/strawberry.jpg",
+      "offer": "5% off"
+    },
+    {
+      "name": "Asparagus",
+      "description": "Fresh organic Asparagus",
+      "quantity": "1 kg",
+      "price": 60,
+      "image-URL": "/Asparagus.jpg",
+      "offer": "5% off"
+    },
+    {
+      "name": "Green smoothie",
+      "description": "Glass of green smoothie, served with cocktail tube, green apple and baby spinach leaves",
+      "quantity": "250 ml",
+      "price": 70,
+      "image-URL": "/green-smoothie.png",
+      "offer": ""
+    },
+    {
+      "name": "Homemade bread",
+      "description": "Homemade bread",
+      "quantity": "250 gms",
+      "price": 20,
+      "image-URL": "/bread.jpg",
+      "offer": ""
+    }
+  ]
+}
